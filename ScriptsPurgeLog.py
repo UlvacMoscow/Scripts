@@ -7,6 +7,7 @@ import shutil
 
 # ScriptsPurgeLog.py log.txt 12 4
 
+
 if len(sys.argv) < 4:
     print("неправильно введена команда, пример: script.py 12 4")
     exit(1)
